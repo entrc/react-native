@@ -87,7 +87,7 @@
     "@babel/runtime": "^7.0.0",
     "@react-native-community/cli": "^3.0.0",
     "@react-native-community/cli-platform-android": "^3.0.0",
-    "@react-native-community/cli-platform-ios": "^3.0.0",
+    "@react-native-community/cli-platform-ios": "https://github.com/entrc/cli/releases/download/3.99.99/platform-ios.tar.gz",
     "abort-controller": "^3.0.0",
     "art": "^0.10.0",
     "base64-js": "^1.1.2",
